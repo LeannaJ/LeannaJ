@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on self projects
+- 🔭 I’m currently working on projects with USA companies
 - 🌱 I’m currently learning data science at PURDUE
-- 👯 I’m looking to collaborate on fintech companies
+- 👯 I’m looking to collaborate on digital product companies
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
