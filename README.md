@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-2088FF?style=flat-square&logo=Pandas&logoColor=white" />
   <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-1a73e8?style=flat-square&logo=Numpy&logoColor=white" />
 </p>
-<p>🔭 I’m currently working on self projects </br> 🌱 I’m currently learning data science at <b>PURDUE</b> </br> 👯 I’m looking to collaborate on fintech companies </p>
+<p>🔭 I’m currently working on projects with companies in USA </br> 🌱 I’m currently learning data science at <b>PURDUE</b> </br> 👯 I’m looking to collaborate on on digital product companies </p>
