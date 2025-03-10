@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on projects with USA companies
+- 🔭 I’m currently working on projects with companies in USA
 - 🌱 I’m currently learning data science at PURDUE
 - 👯 I’m looking to collaborate on digital product companies
 - 🤔 I’m looking for help with ...
