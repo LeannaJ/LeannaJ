@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Welcome to my page! </br> I'm Leanna, Data analyst from <b>Seoul, Korea</b>, currently living in <b>Indiana, USA</b>. </p>
+<p>Welcome to my page! </br> I'm Leanna, a Product Manager from <b>Seoul, Korea</b>, currently seeking for a Data Analyst in <b>USA</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=Python&logoColor=white" />
