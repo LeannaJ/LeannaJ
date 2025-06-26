@@ -1,6 +1,6 @@
-## Hey, welcome to my page !
---
-I'm Leanna, an **AI/ML Enthusiast**, **Product-minded Data Scientist**.
+## Hey, Welcome to my GitHub page!
+
+I'm Leanna, an **AI/ML Enthusiast** with product insight experience, seeking a **Data Scientist** role in the USA.
 
 #### 🚀 Programming & Dev Tools  
 Python, SQL, R, JavaScript, Git, Docker, Apache, Airflow, Jupyter Notebook  
