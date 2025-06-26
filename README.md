@@ -1,4 +1,6 @@
-## Hey, glad to meet you!
+## Hey, welcome to my page !
+--
+I'm Leanna, an **AI/ML Enthusiast**, **Product-minded Data Scientist**.
 
 #### 🚀 Programming & Dev Tools  
 Python, SQL, R, JavaScript, Git, Docker, Apache, Airflow, Jupyter Notebook  
