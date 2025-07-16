@@ -1,6 +1,6 @@
 ## Hey, Welcome to my GitHub page!
 
-I'm Leanna, an **AI/ML Enthusiast** with product insight experience, seeking a **Data Scientist** role in the USA.
+I'm Leanna, an **AI/ML Enthusiast** with product insight experience, seeking a **ML Engineer** & **Data Scientist** role in the USA.
 
 💡 Bridging data science and product strategy to solve real-world problems.
 
