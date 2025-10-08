@@ -15,7 +15,7 @@ Python, SQL, R, JavaScript, Git, Docker, Apache, Airflow, Jupyter Notebook
 
 #### 🤖 Machine Learning & AI  
 **Supervised Learning**: TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, Deep Learning  
-**Generative AI & NLP**: LangChain, Hugging Face, LLM Fine-tuning, NLP, BERT, FastAPI, OpenAI API
+**Generative AI & NLP**: Agentic AI, LangChain, Hugging Face, LLM Fine-tuning, NLP, BERT, FastAPI, OpenAI API
 
 #### ☁️ Data & Cloud Infrastructure  
 MySQL, PostgreSQL, MongoDB, BigQuery, AWS, GCP, Azure  
